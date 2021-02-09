@@ -1,0 +1,8 @@
+psutil~=5.8.0
+yfinance~=0.1.55
+torch~=1.7.1
+numpy~=1.20.1
+pandas~=1.2.1
+matplotlib~=3.3.4
+sklearn~=0.0
+scikit-learn~=0.24.1
