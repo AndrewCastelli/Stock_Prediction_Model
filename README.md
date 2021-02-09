@@ -17,12 +17,12 @@ Try it for yourself:
 
 MacOS
 --
-Option 1
+#### Option 1
 - Open Terminal in CapstoneProject folder or navigate to CapstoneProject folder
 - Enter code 'python3 main.py' to run program
 - Enter password 'luthor' to begin
 
-Option 2
+#### Option 2
 - Open CapstoneProject folder with PyCharm, Google Colab, or your IDE of choice
 - Navigate to main.py python file
 - Run main.py
@@ -30,13 +30,13 @@ Option 2
 
 Windows
 --
-Option 1
+#### Option 1
 - Open new Command Prompt (Windows key + X, click Command Prompt)
 - Navigate to the directory you saved the CapstoneProject folder in
 - Enter code 'python3 main.py' to run program
 - Enter password 'luthor' to begin
 
-Option 2
+#### Option 2
 - Open CapstoneProject folder with PyCharm, Google Colab, or your IDE of choice
 - Navigate to main.py python file
 - Run main.py
