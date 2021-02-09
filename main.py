@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
     # Train Model
     print("Training Model...")
-    model_train, train_loss = train_model(RNN, x_train_tens, y_train_tens, 0.01, epochs)
+    model_train, train_loss = train_model(RNN, x_train_tens, y_train_tens, epochs, 0.01)
 
     print("Making Predictions...")
     # Back-test Model
