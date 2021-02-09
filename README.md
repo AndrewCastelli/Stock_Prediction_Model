@@ -1,6 +1,6 @@
 # WGU Computer Science Capstone C964
-Stock Price Prediction Model - V1.3
-=
+### Stock Price Prediction Model - v1.3
+#### Andrew Castelli - #001488272
 
 This Price Prediction Model was written using Python 3.9.1
 Constructed using a combination of PyCharm and Google Colab.
