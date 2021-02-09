@@ -43,7 +43,7 @@ def prompt_login():
     calculate a rolling mean per 10-day window, scale using MinMaxScaler.
     :return: stock name, price dataframe, close price reference frame, MinMaxScaler object
     """
-    pw = 'Luthor'.casefold()
+    pw = 'luthor'
     login = ''
     print("***************************************************************")
     print("Welcome to the LexCorp Investments Stock Price Prediction Model")
