@@ -2,7 +2,8 @@
 ### Stock Price Prediction Model - v1.3
 #### Andrew Castelli - #001488272
 
-This Price Prediction Model was written using Python 3.9.1
+This Price Prediction Model was written using Python 3.9.1.
+
 Constructed using a combination of PyCharm and Google Colab.
 
 My hypothesis for this project is: If enough historical stock price data is available for any individual stock,
