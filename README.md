@@ -1,5 +1,6 @@
 # WGU Computer Science Capstone C964
-## Stock Price Prediction Model
+Stock Price Prediction Model - V1.3
+=
 
 This Price Prediction Model was written using Python 3.9.1
 Constructed using a combination of PyCharm and Google Colab.
@@ -10,8 +11,9 @@ Due to the strong correlations between prediction price and actual price, I conf
 
 Try it for yourself:
 --
-- Check for and/or download module requirements.
-- Download CapstoneProject folder.
+- Make sure Python V3.6 or higher is on your device
+- Check and/or download module requirements (requirements.txt).
+- Download CapstoneProject folder from github
 
 MacOS
 --
@@ -19,6 +21,7 @@ Option 1
 - Open Terminal in CapstoneProject folder or navigate to CapstoneProject folder
 - Enter code 'python3 main.py' to run program
 - Enter password 'Luthor' to begin
+
 Option 2
 - Open CapstoneProject folder with PyCharm, Google Colab, or your IDE of choice
 - Navigate to main.py python file
@@ -32,6 +35,7 @@ Option 1
 - Navigate to the directory you saved the CapstoneProject folder in
 - Enter code 'python3 main.py' to run program
 - Enter password 'Luthor' to begin
+
 Option 2
 - Open CapstoneProject folder with PyCharm, Google Colab, or your IDE of choice
 - Navigate to main.py python file
