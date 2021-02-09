@@ -20,13 +20,13 @@ MacOS
 Option 1
 - Open Terminal in CapstoneProject folder or navigate to CapstoneProject folder
 - Enter code 'python3 main.py' to run program
-- Enter password 'Luthor' to begin
+- Enter password 'luthor' to begin
 
 Option 2
 - Open CapstoneProject folder with PyCharm, Google Colab, or your IDE of choice
 - Navigate to main.py python file
 - Run main.py
-- Enter password 'Luthor' to begin
+- Enter password 'luthor' to begin
 
 Windows
 --
@@ -34,13 +34,13 @@ Option 1
 - Open new Command Prompt (Windows key + X, click Command Prompt)
 - Navigate to the directory you saved the CapstoneProject folder in
 - Enter code 'python3 main.py' to run program
-- Enter password 'Luthor' to begin
+- Enter password 'luthor' to begin
 
 Option 2
 - Open CapstoneProject folder with PyCharm, Google Colab, or your IDE of choice
 - Navigate to main.py python file
 - Run main.py
-- Enter password 'Luthor' to begin
+- Enter password 'luthor' to begin
 
 Python Module Requirements:
 --
